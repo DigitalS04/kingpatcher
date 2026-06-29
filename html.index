@@ -1,0 +1,52 @@
+<p class="text-gray-400 mt-2 text-sm">Unlocks the secondary tier features for advanced tactical advantage.</p>
+                    <div class="my-6">
+                        <span class="text-4xl font-bold text-white">₹999</span>
+                        <span class="text-gray-500 text-sm">/ Instance</span>
+                    </div>
+                    <ul class="space-y-3 text-sm text-gray-300 border-t border-gray-800 pt-4">
+                        <li class="flex items-center"><span class="text-green-500 mr-2">✓</span> Mode 2 Full Activation</li>
+                        <li class="flex items-center"><span class="text-green-500 mr-2">✓</span> Instant Key Generation</li>
+                        <li class="flex items-center"><span class="text-green-500 mr-2">✓</span> High-Speed Server Connect</li>
+                    </ul>
+                </div>
+                <button class="mt-8 w-full bg-green-500 hover:bg-green-600 text-black font-bold py-3 px-4 rounded-lg tracking-wider uppercase transition duration-200 shadow-lg shadow-green-500/20">
+                    Buy Mode 2 Key
+                </button>
+            </div>
+
+            <div class="bg-gray-950 rounded-xl p-8 flex flex-col justify-between transition-transform duration-300 hover:scale-105 relative neon-border">
+                <span class="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-purple-600 text-white text-xs px-4 py-1 rounded-full uppercase font-bold tracking-widest shadow-md">
+                    Most Popular
+                </span>
+                <div>
+                    <span class="text-xs uppercase bg-purple-900/50 text-purple-400 px-3 py-1 rounded-full font-bold tracking-wider">Ultimate Master</span>
+                    <h3 class="gaming-font text-2xl font-bold text-white mt-4">Full Suite Access</h3>
+                    <p class="text-gray-400 mt-2 text-sm">Unlocks everything. Includes Mode 1, Mode 2, and the exclusive Last Mode.</p>
+                    <div class="my-6">
+                        <span class="text-4xl font-bold text-purple-400 neon-text">₹3,999</span>
+                        <span class="text-gray-500 text-sm">/ Lifetime Updates</span>
+                    </div>
+                    <ul class="space-y-3 text-sm text-gray-300 border-t border-gray-800 pt-4">
+                        <li class="flex items-center"><span class="text-purple-400 mr-2">✦</span> All Modes Unlocked (1, 2 & Last)</li>
+                        <li class="flex items-center"><span class="text-purple-400 mr-2">✦</span> Priority Server Connection</li>
+                        <li class="flex items-center"><span class="text-purple-400 mr-2">✦</span> VIP Premium Customer Support</li>
+                        <li class="flex items-center"><span class="text-purple-400 mr-2">✦</span> Anti-Ban Patch Updates</li>
+                    </ul>
+                </div>
+                <button class="mt-8 w-full bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-4 rounded-lg tracking-wider uppercase transition duration-200 shadow-lg shadow-purple-600/30">
+                    Buy VIP Full Access
+                </button>
+            </div>
+
+        </div>
+    </main>
+
+    <footer class="bg-black py-8 px-4 text-center border-t border-gray-900 text-xs text-gray-500">
+        <p class="text-red-500/80 mb-2 uppercase tracking-widest font-semibold">
+            This paid version is only for Educational Purpose.
+        </p>
+        <p>© 2026 KingPatcher. All rights reserved. Managed via www.kingpatcher.in</p>
+    </footer>
+
+</body>
+</html>
